@@ -24,5 +24,6 @@ public class Nov29
 	}
 	public static void main(String[] args)
 	{
+		System.out.println(convertFromArrayList(convertToArrayList(8950)));
 	}
 }
